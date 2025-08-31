@@ -1,4 +1,4 @@
-# AI-Driven Bone Tumor Classification and Segmentation
+# 🌟AI-Driven Bone Tumor Classification and Segmentation🌟
 
 This repository contains code, notebooks, and results for bone tumor classification and segmentation in X-rays using AI, transfer learning, and attention-based deep networks. The project leverages the BTXRD dataset and pre-trained models for improved accuracy and generalization.
 
@@ -89,7 +89,7 @@ Dice = 2 * |P ∩ G| / (|P| + |G|)
 | DenseNet121 (CheXpert, Frozen) | 0.85 | 0.87 | 0.87 |
 | DenseNet121 (CheXpert, Fine-Tuned) | 0.90 | 0.85 | 0.87 |
 
-### 📊 Multi-Class Metrics (Test Set)
+### 🌟 Multi-Class Metrics (Test Set)
 
 | Class     | Precision | Recall | F1-Score | AUC-ROC | PR-AUC |
 |-----------|-----------|--------|----------|---------|--------|
@@ -105,7 +105,7 @@ Dice = 2 * |P ∩ G| / (|P| + |G|)
 
 - **Note**: Malignant detection remains challenging due to class imbalance.
 
-### 📐 Segmentation Results
+### 🌟 Segmentation Results
 
 | Metric | Basic U-Net | Improved U-Net |
 |--------|-------------|----------------|
@@ -128,7 +128,7 @@ Dice = 2 * |P ∩ G| / (|P| + |G|)
 
 ---
 
-## 📚 References
+## 🌟 References
 
 - Yao, S., Huang, Y., Wang, X. et al.  
 *A Radiograph Dataset for the Classification, Localization, and Segmentation of Primary Bone Tumors*.  
